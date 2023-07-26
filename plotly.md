@@ -1,5 +1,7 @@
 # Bivariate Choropleth Plotly Dashboard
 
+Example of ploty map: [Map](https://chart-studio.plotly.com/~empet/15191/texas-bivariate-choropleth-assoc/#/) 
+
 Milestones:
 1. Create a bivariate choropleth plotly dashboard
 2. Create a dropdown to choose between variables for the bivariate part of the graph.
@@ -14,4 +16,8 @@ A "bivariate choropleth map" is a type of thematic map that represents two diffe
 In a traditional choropleth map, as mentioned earlier, only one variable is represented using color gradients to show variations in that specific variable across geographic areas. However, in a bivariate choropleth map, two distinct variables are visualized using color gradients simultaneously. Each geographic region on the map is shaded with a combination of two colors, one for each variable.
 
 [References] (https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
+
+[Plotting geographic data with plotly] (https://www.youtube.com/watch?v=ivegkbGWxHs&ab_channel=SkillUpwithGenie)
+
+
 
